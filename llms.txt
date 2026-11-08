@@ -1,0 +1,30 @@
+# Güven Kardeşler
+
+> Bursa Yıldırım merkezli demir imalatı ve kaynak işleri. demir kapı imalatı, pencere korkuluğu, bahçe kapısı, garaj ve depo kapısı, balkon korkuluğu, merdiven korkuluğu, ferforje, kaynak işleri, pvc kapı pencere ve tonluk bidon.
+
+- Telefon / WhatsApp: 0538 933 12 72 (+905389331272)
+- Adres: Şirinevler Mah. 11 Eylül Blv. No:432, 16290, Yıldırım / Bursa (40.1998992, 29.151643)
+- Hizmet bölgeleri: Yıldırım, Osmangazi, Gürsu, Kestel, Nilüfer, Mudanya
+- Fiyat: İşin ölçüsüne ve malzemesine göre telefonda veya WhatsApp'tan fotoğrafla konuşulur.
+
+## Sayfalar
+- [Ana sayfa](https://guvenkardeslermetal.com.tr/): Hizmetler, hizmet bölgeleri, nasıl çalışır, SSS, iletişim
+- [Bursa demir kapı imalatı](https://guvenkardeslermetal.com.tr/bursa-demir-kapi-imalati.html): Bahçe kapısı, giriş kapısı, garaj ve depo kapısı; ölçüye göre imalat ve montaj
+- [Bursa pencere korkuluğu](https://guvenkardeslermetal.com.tr/bursa-pencere-korkulugu-imalati.html): Zemin, bodrum ve giriş katı pencereleri için pencere demiri; ölçüye göre imalat ve montaj
+- [Bursa ferforje](https://guvenkardeslermetal.com.tr/bursa-ferforje.html): Ferforje kapı, korkuluk ve pencere demiri; ölçüye göre imalat ve montaj
+- [Bursa kaynak işleri](https://guvenkardeslermetal.com.tr/bursa-kaynak-isleri.html): Atölyede ve yerinde kaynak; tamir, ekleme, sağlamlaştırma
+- [Bursa pvc kapı pencere](https://guvenkardeslermetal.com.tr/bursa-pvc-kapi-pencere.html): Sıfır ve ikinci el PVC kapı ve pencere satışı
+- [Bursa tonluk bidon](https://guvenkardeslermetal.com.tr/bursa-tonluk-bidon-alim-satim.html): 1 tonluk kafesli bidonlar (IBC tank) değerinde alınır, satılır
+- [Yıldırım demirci](https://guvenkardeslermetal.com.tr/bursa-yildirim-demirci.html): 
+- [Osmangazi demirci](https://guvenkardeslermetal.com.tr/bursa-osmangazi-demirci.html): 
+- [Gürsu demirci](https://guvenkardeslermetal.com.tr/bursa-gursu-demirci.html): 
+- [Kestel demirci](https://guvenkardeslermetal.com.tr/bursa-kestel-demirci.html): 
+- [Nilüfer demirci](https://guvenkardeslermetal.com.tr/bursa-nilufer-demirci.html): 
+- [Hakkımızda](https://guvenkardeslermetal.com.tr/hakkimizda.html): Güven Kardeşler, Bursa Yıldırım'da Öztürk kardeşlerin işlettiği bir demir imalat ve kaynak atölyesidir.
+- [İletişim](https://guvenkardeslermetal.com.tr/iletisim.html)
+
+- [KVKK Aydınlatma Metni](https://guvenkardeslermetal.com.tr/kvkk.html)
+- [Gizlilik Politikası](https://guvenkardeslermetal.com.tr/gizlilik-politikasi.html)
+
+## Yapısal veri
+- [Site geneli schema.org grafiği](https://guvenkardeslermetal.com.tr/schema.json): işletme, hizmetler, bölgeler, sayfalar ve SSS tek dosyada (JSON-LD)

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://guvenkardeslermetal.com.tr/sitemap.xml

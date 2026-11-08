@@ -1,0 +1,1607 @@
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-demir-kapi-imalati.html#hizmet",
+   "@type": "Service",
+   "name": "Demir kapı imalatı",
+   "serviceType": "Demir kapı imalatı",
+   "description": "Bahçe kapısı, giriş kapısı, garaj ve depo kapısı; ölçüye göre imalat ve montaj",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-demir-kapi-imalati.html",
+   "provider": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    }
+   ]
+  },
+  {
+   "@type": "LocalBusiness",
+   "@id": "https://guvenkardeslermetal.com.tr/#isletme",
+   "name": "Güven Kardeşler",
+   "alternateName": "Güven Kardeşler Demir İmalatı",
+   "url": "https://guvenkardeslermetal.com.tr/",
+   "telephone": "+905389331272",
+   "image": [
+    "https://guvenkardeslermetal.com.tr/assets/img/og-6e2fa965.jpg",
+    {
+     "@type": "ImageObject",
+     "contentUrl": "https://guvenkardeslermetal.com.tr/assets/img/bursa-guven-kardesler-demir-hero-1600.avif",
+     "width": 1600,
+     "height": 900,
+     "caption": "Bursa Yıldırım'daki Güven Kardeşler atölyesinde ferforje kapı kaynağı",
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Yıldırım, Bursa",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 40.1998992,
+       "longitude": 29.151643
+      }
+     },
+     "creditText": "Güven Kardeşler",
+     "copyrightNotice": "Güven Kardeşler",
+     "creator": {
+      "@type": "Organization",
+      "name": "Güven Kardeşler",
+      "url": "https://guvenkardeslermetal.com.tr/"
+     },
+     "license": "https://guvenkardeslermetal.com.tr/iletisim.html",
+     "acquireLicensePage": "https://guvenkardeslermetal.com.tr/iletisim.html"
+    },
+    {
+     "@type": "ImageObject",
+     "contentUrl": "https://guvenkardeslermetal.com.tr/assets/img/bursa-pencere-korkulugu-imalati-800.avif",
+     "width": 800,
+     "height": 450,
+     "caption": "Bursa'da apartman zemin kat penceresine ferforje pencere demiri montajı",
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Yıldırım, Bursa",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 40.1998992,
+       "longitude": 29.151643
+      }
+     },
+     "creditText": "Güven Kardeşler",
+     "copyrightNotice": "Güven Kardeşler",
+     "creator": {
+      "@type": "Organization",
+      "name": "Güven Kardeşler",
+      "url": "https://guvenkardeslermetal.com.tr/"
+     },
+     "license": "https://guvenkardeslermetal.com.tr/iletisim.html",
+     "acquireLicensePage": "https://guvenkardeslermetal.com.tr/iletisim.html"
+    },
+    {
+     "@type": "ImageObject",
+     "contentUrl": "https://guvenkardeslermetal.com.tr/assets/img/bursa-bahce-kapisi-800.avif",
+     "width": 800,
+     "height": 450,
+     "caption": "Bursa'da Uludağ manzaralı villa girişinde ferforje demir bahçe kapısı ve yaya kapısı",
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Yıldırım, Bursa",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 40.1998992,
+       "longitude": 29.151643
+      }
+     },
+     "creditText": "Güven Kardeşler",
+     "copyrightNotice": "Güven Kardeşler",
+     "creator": {
+      "@type": "Organization",
+      "name": "Güven Kardeşler",
+      "url": "https://guvenkardeslermetal.com.tr/"
+     },
+     "license": "https://guvenkardeslermetal.com.tr/iletisim.html",
+     "acquireLicensePage": "https://guvenkardeslermetal.com.tr/iletisim.html"
+    },
+    {
+     "@type": "ImageObject",
+     "contentUrl": "https://guvenkardeslermetal.com.tr/assets/img/bursa-garaj-kapisi-800.avif",
+     "width": 800,
+     "height": 450,
+     "caption": "Bursa'da iki kanatlı siyah demir garaj kapısının montajı",
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Yıldırım, Bursa",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 40.1998992,
+       "longitude": 29.151643
+      }
+     },
+     "creditText": "Güven Kardeşler",
+     "copyrightNotice": "Güven Kardeşler",
+     "creator": {
+      "@type": "Organization",
+      "name": "Güven Kardeşler",
+      "url": "https://guvenkardeslermetal.com.tr/"
+     },
+     "license": "https://guvenkardeslermetal.com.tr/iletisim.html",
+     "acquireLicensePage": "https://guvenkardeslermetal.com.tr/iletisim.html"
+    },
+    {
+     "@type": "ImageObject",
+     "contentUrl": "https://guvenkardeslermetal.com.tr/assets/img/bursa-balkon-korkulugu-800.avif",
+     "width": 800,
+     "height": 450,
+     "caption": "Bursa'da apartman balkonuna siyah demir balkon korkuluğu montajı",
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Yıldırım, Bursa",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 40.1998992,
+       "longitude": 29.151643
+      }
+     },
+     "creditText": "Güven Kardeşler",
+     "copyrightNotice": "Güven Kardeşler",
+     "creator": {
+      "@type": "Organization",
+      "name": "Güven Kardeşler",
+      "url": "https://guvenkardeslermetal.com.tr/"
+     },
+     "license": "https://guvenkardeslermetal.com.tr/iletisim.html",
+     "acquireLicensePage": "https://guvenkardeslermetal.com.tr/iletisim.html"
+    },
+    {
+     "@type": "ImageObject",
+     "contentUrl": "https://guvenkardeslermetal.com.tr/assets/img/bursa-merdiven-korkulugu-800.avif",
+     "width": 800,
+     "height": 450,
+     "caption": "Bursa'da bina içi merdivene ferforje korkuluk ve ahşap küpeşte montajı",
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Yıldırım, Bursa",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 40.1998992,
+       "longitude": 29.151643
+      }
+     },
+     "creditText": "Güven Kardeşler",
+     "copyrightNotice": "Güven Kardeşler",
+     "creator": {
+      "@type": "Organization",
+      "name": "Güven Kardeşler",
+      "url": "https://guvenkardeslermetal.com.tr/"
+     },
+     "license": "https://guvenkardeslermetal.com.tr/iletisim.html",
+     "acquireLicensePage": "https://guvenkardeslermetal.com.tr/iletisim.html"
+    },
+    {
+     "@type": "ImageObject",
+     "contentUrl": "https://guvenkardeslermetal.com.tr/assets/img/bursa-ferforje-800.avif",
+     "width": 800,
+     "height": 450,
+     "caption": "Bursa Yıldırım atölyesinde ferforje kapı kaynağı",
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Yıldırım, Bursa",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 40.1998992,
+       "longitude": 29.151643
+      }
+     },
+     "creditText": "Güven Kardeşler",
+     "copyrightNotice": "Güven Kardeşler",
+     "creator": {
+      "@type": "Organization",
+      "name": "Güven Kardeşler",
+      "url": "https://guvenkardeslermetal.com.tr/"
+     },
+     "license": "https://guvenkardeslermetal.com.tr/iletisim.html",
+     "acquireLicensePage": "https://guvenkardeslermetal.com.tr/iletisim.html"
+    },
+    {
+     "@type": "ImageObject",
+     "contentUrl": "https://guvenkardeslermetal.com.tr/assets/img/bursa-pvc-kapi-pencere-800.avif",
+     "width": 800,
+     "height": 450,
+     "caption": "Bursa'da sıfır ve ikinci el beyaz PVC kapı ve pencereler",
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Yıldırım, Bursa",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 40.1998992,
+       "longitude": 29.151643
+      }
+     },
+     "creditText": "Güven Kardeşler",
+     "copyrightNotice": "Güven Kardeşler",
+     "creator": {
+      "@type": "Organization",
+      "name": "Güven Kardeşler",
+      "url": "https://guvenkardeslermetal.com.tr/"
+     },
+     "license": "https://guvenkardeslermetal.com.tr/iletisim.html",
+     "acquireLicensePage": "https://guvenkardeslermetal.com.tr/iletisim.html"
+    }
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Şirinevler Mah. 11 Eylül Blv. No:432, 16290",
+    "addressLocality": "Yıldırım",
+    "addressRegion": "Bursa",
+    "addressCountry": "TR"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.1998992,
+    "longitude": 29.151643
+   },
+   "hasMap": "https://www.google.com/maps/search/?api=1&query=40.1998992,29.151643",
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    }
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Hizmetler",
+    "itemListElement": [
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "Service",
+       "name": "Demir kapı imalatı",
+       "url": "https://guvenkardeslermetal.com.tr/bursa-demir-kapi-imalati.html"
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "Service",
+       "name": "Demir pencere korkuluğu imalatı",
+       "url": "https://guvenkardeslermetal.com.tr/bursa-pencere-korkulugu-imalati.html"
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "Service",
+       "name": "Demir bahçe kapısı imalatı"
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "Service",
+       "name": "Demir garaj ve depo kapısı imalatı"
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "Service",
+       "name": "Demir balkon korkuluğu imalatı"
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "Service",
+       "name": "Demir merdiven korkuluğu imalatı"
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "Service",
+       "name": "Ferforje imalatı",
+       "url": "https://guvenkardeslermetal.com.tr/bursa-ferforje.html"
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "Service",
+       "name": "Kaynak işleri",
+       "url": "https://guvenkardeslermetal.com.tr/bursa-kaynak-isleri.html"
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "Service",
+       "name": "PVC kapı ve pencere satışı",
+       "url": "https://guvenkardeslermetal.com.tr/bursa-pvc-kapi-pencere.html"
+      }
+     },
+     {
+      "@type": "Offer",
+      "itemOffered": {
+       "@type": "Service",
+       "name": "Tonluk bidon (IBC tank) alım satımı",
+       "url": "https://guvenkardeslermetal.com.tr/bursa-tonluk-bidon-alim-satim.html"
+      }
+     }
+    ]
+   },
+   "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+905389331272",
+    "contactType": "customer service",
+    "availableLanguage": "Turkish"
+   }
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-demir-kapi-imalati.html#breadcrumblist",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Ana sayfa",
+     "item": "https://guvenkardeslermetal.com.tr/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Hizmetlerimiz",
+     "item": "https://guvenkardeslermetal.com.tr/#hizmetler"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Bursa Demir Kapı İmalatı",
+     "item": "https://guvenkardeslermetal.com.tr/bursa-demir-kapi-imalati.html"
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-demir-kapi-imalati.html#faqpage",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Demir Kapı İmalatı için fiyatı nasıl öğrenirim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "0538 933 12 72 numarasını arayın ya da işinizin fotoğrafını WhatsApp'tan gönderin. Ölçüsüne, malzemesine ve işçiliğine göre fiyatı birlikte konuşuruz."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Demir kapının fiyatını nasıl öğrenirim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Kapı boşluğunun fotoğrafını ve yaklaşık ölçüsünü WhatsApp'tan gönderin. Ölçü, profil ve desene göre fiyatı birlikte konuşalım."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Montajı siz mi yapıyorsunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Evet. Kapıyı atölyede hazırlayıp adresinizde takıyoruz."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Bursa'nın hangi ilçelerinde demir kapı imalatı yapıyorsunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yıldırım, Osmangazi, Gürsu, Kestel, Nilüfer ve Mudanya ilçelerinde hizmet veriyoruz."
+     }
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-demir-kapi-imalati.html#sayfa",
+   "@type": "WebPage",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-demir-kapi-imalati.html",
+   "dateModified": "2026-11-08",
+   "inLanguage": "tr-TR",
+   "about": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   }
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-ferforje.html#hizmet",
+   "@type": "Service",
+   "name": "Ferforje imalatı",
+   "serviceType": "Ferforje imalatı",
+   "description": "Ferforje kapı, korkuluk ve pencere demiri; ölçüye göre imalat ve montaj",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-ferforje.html",
+   "provider": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    }
+   ],
+   "image": "https://guvenkardeslermetal.com.tr/assets/img/bursa-ferforje-800.avif"
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-ferforje.html#breadcrumblist",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Ana sayfa",
+     "item": "https://guvenkardeslermetal.com.tr/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Hizmetlerimiz",
+     "item": "https://guvenkardeslermetal.com.tr/#hizmetler"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Bursa Ferforje",
+     "item": "https://guvenkardeslermetal.com.tr/bursa-ferforje.html"
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-ferforje.html#faqpage",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Ferforje için fiyatı nasıl öğrenirim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "0538 933 12 72 numarasını arayın ya da işinizin fotoğrafını WhatsApp'tan gönderin. Ölçüsüne, malzemesine ve işçiliğine göre fiyatı birlikte konuşuruz."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Ferforje fiyatı neye göre değişir?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Ölçüye, demirin kalınlığına, desenin yoğunluğuna ve boyaya göre değişir. Fotoğraf ve ölçü gönderin, fiyatı konuşalım."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Elimdeki fotoğraftaki deseni yapabilir misiniz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Fotoğrafı gönderin; deseni inceleyip benzerini ölçünüze göre yapabileceğimizi ve fiyatını söyleyelim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Eski ferforje kapımı tamir ediyor musunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Evet. Kopmuş süslemeleri, açılmış kaynakları ve sarkan kanatları atölyede ya da yerinde onarıyoruz."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Bursa'nın hangi ilçelerinde ferforje yapıyorsunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yıldırım, Osmangazi, Gürsu, Kestel, Nilüfer ve Mudanya ilçelerinde hizmet veriyoruz."
+     }
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-ferforje.html#sayfa",
+   "@type": "WebPage",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-ferforje.html",
+   "dateModified": "2026-11-08",
+   "inLanguage": "tr-TR",
+   "about": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   }
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-gursu-demirci.html#hizmet",
+   "@type": "Service",
+   "name": "Gürsu demir imalatı ve kaynak işleri",
+   "serviceType": "Demir doğrama ve kaynak işleri",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-gursu-demirci.html",
+   "description": "Bursa Gürsu'da demir imalatı ve kaynak işleri.",
+   "provider": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   },
+   "areaServed": {
+    "@type": "AdministrativeArea",
+    "name": "Gürsu",
+    "containedInPlace": {
+     "@type": "City",
+     "name": "Bursa"
+    }
+   }
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-gursu-demirci.html#breadcrumblist",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Ana sayfa",
+     "item": "https://guvenkardeslermetal.com.tr/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Hizmet bölgeleri",
+     "item": "https://guvenkardeslermetal.com.tr/#bolgeler"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Gürsu Demirci",
+     "item": "https://guvenkardeslermetal.com.tr/bursa-gursu-demirci.html"
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-gursu-demirci.html#faqpage",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Gürsu'ya bahçe kapısı montajı yapıyor musunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Evet. Kapı boşluğunun fotoğrafını ve ölçüsünü gönderin, fiyatı ve montaj gününü konuşalım."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Gürsu'da hangi işleri yapıyorsunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Demir kapı imalatı, pencere korkuluğu, bahçe kapısı, garaj ve depo kapısı, balkon korkuluğu, merdiven korkuluğu, ferforje, kaynak işleri, pvc kapı pencere ve tonluk bidon yapıyoruz."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Fiyatı nasıl öğrenirim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "0538 933 12 72 numarasını arayın ya da işinizin fotoğrafını WhatsApp'tan gönderin; ölçüsüne ve malzemesine göre fiyatı birlikte konuşalım."
+     }
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-gursu-demirci.html#sayfa",
+   "@type": "WebPage",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-gursu-demirci.html",
+   "dateModified": "2026-11-08",
+   "inLanguage": "tr-TR",
+   "about": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   }
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-kaynak-isleri.html#hizmet",
+   "@type": "Service",
+   "name": "Kaynak işleri",
+   "serviceType": "Kaynak işleri",
+   "description": "Atölyede ve yerinde kaynak; tamir, ekleme, sağlamlaştırma",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-kaynak-isleri.html",
+   "provider": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-kaynak-isleri.html#breadcrumblist",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Ana sayfa",
+     "item": "https://guvenkardeslermetal.com.tr/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Hizmetlerimiz",
+     "item": "https://guvenkardeslermetal.com.tr/#hizmetler"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Bursa Kaynak İşleri",
+     "item": "https://guvenkardeslermetal.com.tr/bursa-kaynak-isleri.html"
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-kaynak-isleri.html#faqpage",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Kaynak İşleri için fiyatı nasıl öğrenirim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "0538 933 12 72 numarasını arayın ya da işinizin fotoğrafını WhatsApp'tan gönderin. Ölçüsüne, malzemesine ve işçiliğine göre fiyatı birlikte konuşuruz."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Küçük tamir işlerine de geliyor musunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Arayın, işi anlatın; yerinde mi atölyede mi yapılması uygun, birlikte karar verelim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Kaynak yapılacak parçayı atölyeye getirebilir miyim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Evet. Atölyemiz Yıldırım'da, 11 Eylül Bulvarı No:432'de. Gelmeden önce aramanızı öneririz."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Bursa'nın hangi ilçelerinde kaynak işleri yapıyorsunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yıldırım, Osmangazi, Gürsu, Kestel, Nilüfer ve Mudanya ilçelerinde hizmet veriyoruz."
+     }
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-kaynak-isleri.html#sayfa",
+   "@type": "WebPage",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-kaynak-isleri.html",
+   "dateModified": "2026-11-08",
+   "inLanguage": "tr-TR",
+   "about": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   }
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-kestel-demirci.html#hizmet",
+   "@type": "Service",
+   "name": "Kestel demir imalatı ve kaynak işleri",
+   "serviceType": "Demir doğrama ve kaynak işleri",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-kestel-demirci.html",
+   "description": "Bursa Kestel'de demir imalatı ve kaynak işleri.",
+   "provider": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   },
+   "areaServed": {
+    "@type": "AdministrativeArea",
+    "name": "Kestel",
+    "containedInPlace": {
+     "@type": "City",
+     "name": "Bursa"
+    }
+   }
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-kestel-demirci.html#breadcrumblist",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Ana sayfa",
+     "item": "https://guvenkardeslermetal.com.tr/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Hizmet bölgeleri",
+     "item": "https://guvenkardeslermetal.com.tr/#bolgeler"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Kestel Demirci",
+     "item": "https://guvenkardeslermetal.com.tr/bursa-kestel-demirci.html"
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-kestel-demirci.html#faqpage",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Kestel'de iş yerime yerinde kaynak için gelir misiniz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Evet, dışarıya hizmetimiz var. Fotoğrafı gönderin, uygun günü belirleyelim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Kestel'de hangi işleri yapıyorsunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Demir kapı imalatı, pencere korkuluğu, bahçe kapısı, garaj ve depo kapısı, balkon korkuluğu, merdiven korkuluğu, ferforje, kaynak işleri, pvc kapı pencere ve tonluk bidon yapıyoruz."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Fiyatı nasıl öğrenirim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "0538 933 12 72 numarasını arayın ya da işinizin fotoğrafını WhatsApp'tan gönderin; ölçüsüne ve malzemesine göre fiyatı birlikte konuşalım."
+     }
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-kestel-demirci.html#sayfa",
+   "@type": "WebPage",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-kestel-demirci.html",
+   "dateModified": "2026-11-08",
+   "inLanguage": "tr-TR",
+   "about": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   }
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-nilufer-demirci.html#hizmet",
+   "@type": "Service",
+   "name": "Nilüfer demir imalatı ve kaynak işleri",
+   "serviceType": "Demir doğrama ve kaynak işleri",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-nilufer-demirci.html",
+   "description": "Bursa Nilüfer'de demir imalatı ve kaynak işleri.",
+   "provider": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   },
+   "areaServed": {
+    "@type": "AdministrativeArea",
+    "name": "Nilüfer",
+    "containedInPlace": {
+     "@type": "City",
+     "name": "Bursa"
+    }
+   }
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-nilufer-demirci.html#breadcrumblist",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Ana sayfa",
+     "item": "https://guvenkardeslermetal.com.tr/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Hizmet bölgeleri",
+     "item": "https://guvenkardeslermetal.com.tr/#bolgeler"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Nilüfer Demirci",
+     "item": "https://guvenkardeslermetal.com.tr/bursa-nilufer-demirci.html"
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-nilufer-demirci.html#faqpage",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Atölyeniz Yıldırım'da, Nilüfer'e de geliyor musunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Evet, Nilüfer'e dışarı hizmet veriyoruz. Adresinizi ve işin fotoğrafını gönderin, günü birlikte belirleyelim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Nilüfer'de hangi işleri yapıyorsunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Demir kapı imalatı, pencere korkuluğu, bahçe kapısı, garaj ve depo kapısı, balkon korkuluğu, merdiven korkuluğu, ferforje, kaynak işleri, pvc kapı pencere ve tonluk bidon yapıyoruz."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Fiyatı nasıl öğrenirim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "0538 933 12 72 numarasını arayın ya da işinizin fotoğrafını WhatsApp'tan gönderin; ölçüsüne ve malzemesine göre fiyatı birlikte konuşalım."
+     }
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-nilufer-demirci.html#sayfa",
+   "@type": "WebPage",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-nilufer-demirci.html",
+   "dateModified": "2026-11-08",
+   "inLanguage": "tr-TR",
+   "about": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   }
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-osmangazi-demirci.html#hizmet",
+   "@type": "Service",
+   "name": "Osmangazi demir imalatı ve kaynak işleri",
+   "serviceType": "Demir doğrama ve kaynak işleri",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-osmangazi-demirci.html",
+   "description": "Bursa Osmangazi'de demir imalatı ve kaynak işleri.",
+   "provider": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   },
+   "areaServed": {
+    "@type": "AdministrativeArea",
+    "name": "Osmangazi",
+    "containedInPlace": {
+     "@type": "City",
+     "name": "Bursa"
+    }
+   }
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-osmangazi-demirci.html#breadcrumblist",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Ana sayfa",
+     "item": "https://guvenkardeslermetal.com.tr/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Hizmet bölgeleri",
+     "item": "https://guvenkardeslermetal.com.tr/#bolgeler"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Osmangazi Demirci",
+     "item": "https://guvenkardeslermetal.com.tr/bursa-osmangazi-demirci.html"
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-osmangazi-demirci.html#faqpage",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Osmangazi'ye montaj için geliyor musunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Evet, dışarıya hizmetimiz var. Adresinizi ve işin fotoğrafını gönderin, günü birlikte belirleyelim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Osmangazi'de hangi işleri yapıyorsunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Demir kapı imalatı, pencere korkuluğu, bahçe kapısı, garaj ve depo kapısı, balkon korkuluğu, merdiven korkuluğu, ferforje, kaynak işleri, pvc kapı pencere ve tonluk bidon yapıyoruz."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Fiyatı nasıl öğrenirim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "0538 933 12 72 numarasını arayın ya da işinizin fotoğrafını WhatsApp'tan gönderin; ölçüsüne ve malzemesine göre fiyatı birlikte konuşalım."
+     }
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-osmangazi-demirci.html#sayfa",
+   "@type": "WebPage",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-osmangazi-demirci.html",
+   "dateModified": "2026-11-08",
+   "inLanguage": "tr-TR",
+   "about": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   }
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-pencere-korkulugu-imalati.html#hizmet",
+   "@type": "Service",
+   "name": "Demir pencere korkuluğu imalatı",
+   "serviceType": "Demir pencere korkuluğu imalatı",
+   "description": "Zemin, bodrum ve giriş katı pencereleri için pencere demiri; ölçüye göre imalat ve montaj",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-pencere-korkulugu-imalati.html",
+   "provider": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    }
+   ],
+   "image": "https://guvenkardeslermetal.com.tr/assets/img/bursa-pencere-korkulugu-imalati-800.avif"
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-pencere-korkulugu-imalati.html#breadcrumblist",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Ana sayfa",
+     "item": "https://guvenkardeslermetal.com.tr/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Hizmetlerimiz",
+     "item": "https://guvenkardeslermetal.com.tr/#hizmetler"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Bursa Pencere Korkuluğu",
+     "item": "https://guvenkardeslermetal.com.tr/bursa-pencere-korkulugu-imalati.html"
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-pencere-korkulugu-imalati.html#faqpage",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Pencere Korkuluğu için fiyatı nasıl öğrenirim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "0538 933 12 72 numarasını arayın ya da işinizin fotoğrafını WhatsApp'tan gönderin. Ölçüsüne, malzemesine ve işçiliğine göre fiyatı birlikte konuşuruz."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Pencere demiri fiyatı neye göre değişir?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Pencerenin ölçüsüne, demirin kalınlığına, desene ve adede göre değişir. Fotoğraf ve ölçü gönderin, fiyatı konuşalım."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Eski korkuluğu söküp yenisini takıyor musunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Evet, sökümü ve yeni korkuluğun montajını birlikte planlayabiliriz."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Bursa'nın hangi ilçelerinde pencere korkuluğu yapıyorsunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yıldırım, Osmangazi, Gürsu, Kestel, Nilüfer ve Mudanya ilçelerinde hizmet veriyoruz."
+     }
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-pencere-korkulugu-imalati.html#sayfa",
+   "@type": "WebPage",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-pencere-korkulugu-imalati.html",
+   "dateModified": "2026-11-08",
+   "inLanguage": "tr-TR",
+   "about": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   }
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-pvc-kapi-pencere.html#hizmet",
+   "@type": "Service",
+   "name": "PVC kapı ve pencere satışı",
+   "serviceType": "PVC kapı ve pencere satışı",
+   "description": "Sıfır ve ikinci el PVC kapı ve pencere satışı",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-pvc-kapi-pencere.html",
+   "provider": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    }
+   ],
+   "image": "https://guvenkardeslermetal.com.tr/assets/img/bursa-pvc-kapi-pencere-800.avif"
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-pvc-kapi-pencere.html#breadcrumblist",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Ana sayfa",
+     "item": "https://guvenkardeslermetal.com.tr/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Hizmetlerimiz",
+     "item": "https://guvenkardeslermetal.com.tr/#hizmetler"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Bursa PVC Kapı Pencere",
+     "item": "https://guvenkardeslermetal.com.tr/bursa-pvc-kapi-pencere.html"
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-pvc-kapi-pencere.html#faqpage",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "PVC Kapı Pencere için fiyatı nasıl öğrenirim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "0538 933 12 72 numarasını arayın ya da işinizin fotoğrafını WhatsApp'tan gönderin. Ölçüsüne, malzemesine ve işçiliğine göre fiyatı birlikte konuşuruz."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Elinizde hangi ölçüler var?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Ürünler dönem dönem değiştiği için arayıp sormanızı öneririz. Ölçünüzü verin, uygun olanı söyleyelim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "PVC pencereye demir korkuluk da yaptırabilir miyim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Evet, pencere korkuluğu imalatı da yapıyoruz; ikisini birlikte konuşabiliriz."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Bursa'nın hangi ilçelerinde pvc kapı pencere yapıyorsunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yıldırım, Osmangazi, Gürsu, Kestel, Nilüfer ve Mudanya ilçelerinde hizmet veriyoruz."
+     }
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-pvc-kapi-pencere.html#sayfa",
+   "@type": "WebPage",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-pvc-kapi-pencere.html",
+   "dateModified": "2026-11-08",
+   "inLanguage": "tr-TR",
+   "about": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   }
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-tonluk-bidon-alim-satim.html#hizmet",
+   "@type": "Service",
+   "name": "Tonluk bidon (IBC tank) alım satımı",
+   "serviceType": "Tonluk bidon (IBC tank) alım satımı",
+   "description": "1 tonluk kafesli bidonlar (IBC tank) değerinde alınır, satılır",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-tonluk-bidon-alim-satim.html",
+   "provider": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-tonluk-bidon-alim-satim.html#breadcrumblist",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Ana sayfa",
+     "item": "https://guvenkardeslermetal.com.tr/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Hizmetlerimiz",
+     "item": "https://guvenkardeslermetal.com.tr/#hizmetler"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Bursa Tonluk Bidon",
+     "item": "https://guvenkardeslermetal.com.tr/bursa-tonluk-bidon-alim-satim.html"
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-tonluk-bidon-alim-satim.html#faqpage",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Tonluk Bidon için fiyatı nasıl öğrenirim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "0538 933 12 72 numarasını arayın ya da işinizin fotoğrafını WhatsApp'tan gönderin. Ölçüsüne, malzemesine ve işçiliğine göre fiyatı birlikte konuşuruz."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Tonluk bidonu kaç liradan alıyorsunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Bidonun ve kafesin durumuna, adedine göre değişir. Fotoğrafını gönderin, fiyatı konuşalım."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Toplu bidon alıyor musunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Evet. Adedi ve fotoğrafları gönderin, birlikte değerlendirelim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Bursa'nın hangi ilçelerinde tonluk bidon yapıyorsunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yıldırım, Osmangazi, Gürsu, Kestel, Nilüfer ve Mudanya ilçelerinde hizmet veriyoruz."
+     }
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-tonluk-bidon-alim-satim.html#sayfa",
+   "@type": "WebPage",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-tonluk-bidon-alim-satim.html",
+   "dateModified": "2026-11-08",
+   "inLanguage": "tr-TR",
+   "about": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   }
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-yildirim-demirci.html#hizmet",
+   "@type": "Service",
+   "name": "Yıldırım demir imalatı ve kaynak işleri",
+   "serviceType": "Demir doğrama ve kaynak işleri",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-yildirim-demirci.html",
+   "description": "Bursa Yıldırım'da demir imalatı ve kaynak işleri.",
+   "provider": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   },
+   "areaServed": {
+    "@type": "AdministrativeArea",
+    "name": "Yıldırım",
+    "containedInPlace": {
+     "@type": "City",
+     "name": "Bursa"
+    }
+   }
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-yildirim-demirci.html#breadcrumblist",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Ana sayfa",
+     "item": "https://guvenkardeslermetal.com.tr/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Hizmet bölgeleri",
+     "item": "https://guvenkardeslermetal.com.tr/#bolgeler"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Yıldırım Demirci",
+     "item": "https://guvenkardeslermetal.com.tr/bursa-yildirim-demirci.html"
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-yildirim-demirci.html#faqpage",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Atölyeniz Yıldırım'ın neresinde?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Şirinevler Mahallesi, 11 Eylül Bulvarı No:432, 16290 Yıldırım/Bursa."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Yıldırım'da yerinde kaynak yapıyor musunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Evet. İşin fotoğrafını gönderin, uygun günü birlikte belirleyelim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Yıldırım'da hangi işleri yapıyorsunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Demir kapı imalatı, pencere korkuluğu, bahçe kapısı, garaj ve depo kapısı, balkon korkuluğu, merdiven korkuluğu, ferforje, kaynak işleri, pvc kapı pencere ve tonluk bidon yapıyoruz."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Fiyatı nasıl öğrenirim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "0538 933 12 72 numarasını arayın ya da işinizin fotoğrafını WhatsApp'tan gönderin; ölçüsüne ve malzemesine göre fiyatı birlikte konuşalım."
+     }
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/bursa-yildirim-demirci.html#sayfa",
+   "@type": "WebPage",
+   "url": "https://guvenkardeslermetal.com.tr/bursa-yildirim-demirci.html",
+   "dateModified": "2026-11-08",
+   "inLanguage": "tr-TR",
+   "about": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   }
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/gizlilik-politikasi.html#sayfa",
+   "@type": "WebPage",
+   "name": "Gizlilik ve Çerez Politikası",
+   "url": "https://guvenkardeslermetal.com.tr/gizlilik-politikasi.html",
+   "inLanguage": "tr-TR",
+   "about": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   },
+   "dateModified": "2026-11-08"
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/hakkimizda.html#aboutpage",
+   "@type": "AboutPage",
+   "name": "Hakkımızda",
+   "url": "https://guvenkardeslermetal.com.tr/hakkimizda.html",
+   "about": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   },
+   "dateModified": "2026-11-08"
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/hakkimizda.html#breadcrumblist",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Ana sayfa",
+     "item": "https://guvenkardeslermetal.com.tr/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Hakkımızda",
+     "item": "https://guvenkardeslermetal.com.tr/hakkimizda.html"
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/iletisim.html#contactpage",
+   "@type": "ContactPage",
+   "name": "Güven Kardeşler iletişim",
+   "url": "https://guvenkardeslermetal.com.tr/iletisim.html",
+   "about": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   }
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/iletisim.html#breadcrumblist",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Ana sayfa",
+     "item": "https://guvenkardeslermetal.com.tr/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "İletişim",
+     "item": "https://guvenkardeslermetal.com.tr/iletisim.html"
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/#site",
+   "@type": "WebSite",
+   "url": "https://guvenkardeslermetal.com.tr/",
+   "name": "Güven Kardeşler",
+   "inLanguage": "tr-TR"
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/#faqpage",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Hangi işleri yapıyorsunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Demir kapı, ferforje, pencere ve balkon korkuluğu imalatı yapıyor, her türlü kaynak işini üstleniyoruz. Sıfır ve 2. el PVC kapı pencere satıyor, tonluk bidon alıp satıyoruz."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Hangi bölgelere hizmet veriyorsunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yıldırım, Osmangazi, Gürsu, Kestel, Nilüfer ve Mudanya bölgelerinde hizmet veriyoruz."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Fiyatı nasıl öğrenebilirim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "0538 933 12 72 numarasını arayın ya da işin fotoğrafını WhatsApp'tan gönderin. İşin ölçüsüne ve malzemesine göre fiyatı birlikte konuşuruz."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Adresiniz nerede?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Şirinevler Mah. 11 Eylül Blv. No:432, 16290, Yıldırım / Bursa."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Dışarıya, yerinde hizmet veriyor musunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Evet, dışarıya hizmetimiz var. Kapı ve korkuluk montajını, yerinde yapılması gereken kaynak işlerini adresinizde yapıyoruz. Adresinizi ve işin fotoğrafını gönderin, günü birlikte belirleyelim."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Tonluk bidon alıp satıyor musunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Evet. Tonluk (kafesli) bidonlar bizde bulunur; elinizdeki bidonları da değerinde alıyoruz."
+     }
+    }
+   ]
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/#sayfa",
+   "@type": "WebPage",
+   "url": "https://guvenkardeslermetal.com.tr/",
+   "dateModified": "2026-11-08",
+   "inLanguage": "tr-TR",
+   "about": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   }
+  },
+  {
+   "@id": "https://guvenkardeslermetal.com.tr/kvkk.html#sayfa",
+   "@type": "WebPage",
+   "name": "KVKK Aydınlatma Metni",
+   "url": "https://guvenkardeslermetal.com.tr/kvkk.html",
+   "inLanguage": "tr-TR",
+   "about": {
+    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
+   },
+   "dateModified": "2026-11-08"
+  }
+ ]
+}
