@@ -40,7 +40,8 @@
      "@type": "AdministrativeArea",
      "name": "Mudanya"
     }
-   ]
+   ],
+   "image": "https://guvenkardeslermetal.com.tr/assets/img/bursa-demir-kapi-imalati-800.avif"
   },
   {
    "@type": "LocalBusiness",
@@ -62,13 +63,38 @@
    },
    "alternateName": "Güven Kardeşler Demir İmalatı",
    "image": [
-    "https://guvenkardeslermetal.com.tr/assets/img/og-6e2fa965.jpg",
+    "https://guvenkardeslermetal.com.tr/assets/img/og-25450403.jpg",
     {
      "@type": "ImageObject",
      "contentUrl": "https://guvenkardeslermetal.com.tr/assets/img/bursa-guven-kardesler-demir-hero-1600.avif",
      "width": 1600,
      "height": 900,
-     "caption": "Bursa Yıldırım'daki Güven Kardeşler atölyesinde ferforje kapı kaynağı",
+     "caption": "Bursa'da Güven Kardeşler ustaları siyah demir bahçe kapısının montajını yapıyor",
+     "contentLocation": {
+      "@type": "Place",
+      "name": "Yıldırım, Bursa",
+      "geo": {
+       "@type": "GeoCoordinates",
+       "latitude": 40.1998992,
+       "longitude": 29.151643
+      }
+     },
+     "creditText": "Güven Kardeşler",
+     "copyrightNotice": "Güven Kardeşler",
+     "creator": {
+      "@type": "Organization",
+      "name": "Güven Kardeşler",
+      "url": "https://guvenkardeslermetal.com.tr/"
+     },
+     "license": "https://guvenkardeslermetal.com.tr/iletisim.html",
+     "acquireLicensePage": "https://guvenkardeslermetal.com.tr/iletisim.html"
+    },
+    {
+     "@type": "ImageObject",
+     "contentUrl": "https://guvenkardeslermetal.com.tr/assets/img/bursa-demir-kapi-imalati-800.avif",
+     "width": 800,
+     "height": 450,
+     "caption": "Bursa'da iki usta siyah demir bahçe kapısını beton kolonlara monte ediyor",
      "contentLocation": {
       "@type": "Place",
       "name": "Yıldırım, Bursa",
@@ -366,14 +392,6 @@
        "name": "PVC kapı ve pencere satışı",
        "url": "https://guvenkardeslermetal.com.tr/bursa-pvc-kapi-pencere.html"
       }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Tonluk bidon (IBC tank) alım satımı",
-       "url": "https://guvenkardeslermetal.com.tr/bursa-tonluk-bidon-alim-satim.html"
-      }
      }
     ]
    },
@@ -638,7 +656,7 @@
      "name": "Gürsu'da hangi işleri yapıyorsunuz?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Demir kapı imalatı, pencere korkuluğu, bahçe kapısı, garaj ve depo kapısı, balkon korkuluğu, merdiven korkuluğu, ferforje, kaynak işleri, pvc kapı pencere ve tonluk bidon yapıyoruz."
+      "text": "Demir kapı imalatı, pencere korkuluğu, bahçe kapısı, garaj ve depo kapısı, balkon korkuluğu, merdiven korkuluğu, ferforje, kaynak işleri ve pvc kapı pencere yapıyoruz."
      }
     },
     {
@@ -655,7 +673,7 @@
    "@id": "https://guvenkardeslermetal.com.tr/bursa-gursu-demirci.html#sayfa",
    "@type": "WebPage",
    "url": "https://guvenkardeslermetal.com.tr/bursa-gursu-demirci.html",
-   "dateModified": "2026-11-08",
+   "dateModified": "2026-11-10",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://guvenkardeslermetal.com.tr/#isletme"
@@ -834,7 +852,7 @@
      "name": "Kestel'de hangi işleri yapıyorsunuz?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Demir kapı imalatı, pencere korkuluğu, bahçe kapısı, garaj ve depo kapısı, balkon korkuluğu, merdiven korkuluğu, ferforje, kaynak işleri, pvc kapı pencere ve tonluk bidon yapıyoruz."
+      "text": "Demir kapı imalatı, pencere korkuluğu, bahçe kapısı, garaj ve depo kapısı, balkon korkuluğu, merdiven korkuluğu, ferforje, kaynak işleri ve pvc kapı pencere yapıyoruz."
      }
     },
     {
@@ -851,7 +869,7 @@
    "@id": "https://guvenkardeslermetal.com.tr/bursa-kestel-demirci.html#sayfa",
    "@type": "WebPage",
    "url": "https://guvenkardeslermetal.com.tr/bursa-kestel-demirci.html",
-   "dateModified": "2026-11-08",
+   "dateModified": "2026-11-10",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://guvenkardeslermetal.com.tr/#isletme"
@@ -917,7 +935,7 @@
      "name": "Nilüfer'de hangi işleri yapıyorsunuz?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Demir kapı imalatı, pencere korkuluğu, bahçe kapısı, garaj ve depo kapısı, balkon korkuluğu, merdiven korkuluğu, ferforje, kaynak işleri, pvc kapı pencere ve tonluk bidon yapıyoruz."
+      "text": "Demir kapı imalatı, pencere korkuluğu, bahçe kapısı, garaj ve depo kapısı, balkon korkuluğu, merdiven korkuluğu, ferforje, kaynak işleri ve pvc kapı pencere yapıyoruz."
      }
     },
     {
@@ -1000,7 +1018,7 @@
      "name": "Osmangazi'de hangi işleri yapıyorsunuz?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Demir kapı imalatı, pencere korkuluğu, bahçe kapısı, garaj ve depo kapısı, balkon korkuluğu, merdiven korkuluğu, ferforje, kaynak işleri, pvc kapı pencere ve tonluk bidon yapıyoruz."
+      "text": "Demir kapı imalatı, pencere korkuluğu, bahçe kapısı, garaj ve depo kapısı, balkon korkuluğu, merdiven korkuluğu, ferforje, kaynak işleri ve pvc kapı pencere yapıyoruz."
      }
     },
     {
@@ -1252,119 +1270,6 @@
    }
   },
   {
-   "@id": "https://guvenkardeslermetal.com.tr/bursa-tonluk-bidon-alim-satim.html#hizmet",
-   "@type": "Service",
-   "name": "Tonluk bidon (IBC tank) alım satımı",
-   "serviceType": "Tonluk bidon (IBC tank) alım satımı",
-   "description": "1 tonluk kafesli bidonlar (IBC tank) değerinde alınır, satılır",
-   "url": "https://guvenkardeslermetal.com.tr/bursa-tonluk-bidon-alim-satim.html",
-   "provider": {
-    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
-   },
-   "areaServed": [
-    {
-     "@type": "City",
-     "name": "Bursa"
-    },
-    {
-     "@type": "AdministrativeArea",
-     "name": "Yıldırım"
-    },
-    {
-     "@type": "AdministrativeArea",
-     "name": "Osmangazi"
-    },
-    {
-     "@type": "AdministrativeArea",
-     "name": "Gürsu"
-    },
-    {
-     "@type": "AdministrativeArea",
-     "name": "Kestel"
-    },
-    {
-     "@type": "AdministrativeArea",
-     "name": "Nilüfer"
-    },
-    {
-     "@type": "AdministrativeArea",
-     "name": "Mudanya"
-    }
-   ]
-  },
-  {
-   "@id": "https://guvenkardeslermetal.com.tr/bursa-tonluk-bidon-alim-satim.html#breadcrumblist",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Ana sayfa",
-     "item": "https://guvenkardeslermetal.com.tr/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Hizmetlerimiz",
-     "item": "https://guvenkardeslermetal.com.tr/#hizmetler"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Bursa Tonluk Bidon",
-     "item": "https://guvenkardeslermetal.com.tr/bursa-tonluk-bidon-alim-satim.html"
-    }
-   ]
-  },
-  {
-   "@id": "https://guvenkardeslermetal.com.tr/bursa-tonluk-bidon-alim-satim.html#faqpage",
-   "@type": "FAQPage",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Tonluk Bidon için fiyatı nasıl öğrenirim?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "0538 933 12 72 numarasını arayın ya da işinizin fotoğrafını WhatsApp'tan gönderin. Ölçüsüne, malzemesine ve işçiliğine göre fiyatı birlikte konuşuruz."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Tonluk bidonu kaç liradan alıyorsunuz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Bidonun ve kafesin durumuna, adedine göre değişir. Fotoğrafını gönderin, fiyatı konuşalım."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Toplu bidon alıyor musunuz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Evet. Adedi ve fotoğrafları gönderin, birlikte değerlendirelim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Bursa'nın hangi ilçelerinde tonluk bidon yapıyorsunuz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Yıldırım, Osmangazi, Gürsu, Kestel, Nilüfer ve Mudanya ilçelerinde hizmet veriyoruz."
-     }
-    }
-   ]
-  },
-  {
-   "@id": "https://guvenkardeslermetal.com.tr/bursa-tonluk-bidon-alim-satim.html#sayfa",
-   "@type": "WebPage",
-   "url": "https://guvenkardeslermetal.com.tr/bursa-tonluk-bidon-alim-satim.html",
-   "dateModified": "2026-11-08",
-   "inLanguage": "tr-TR",
-   "about": {
-    "@id": "https://guvenkardeslermetal.com.tr/#isletme"
-   }
-  },
-  {
    "@id": "https://guvenkardeslermetal.com.tr/bursa-yildirim-demirci.html#hizmet",
    "@type": "Service",
    "name": "Yıldırım demir imalatı ve kaynak işleri",
@@ -1432,7 +1337,7 @@
      "name": "Yıldırım'da hangi işleri yapıyorsunuz?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Demir kapı imalatı, pencere korkuluğu, bahçe kapısı, garaj ve depo kapısı, balkon korkuluğu, merdiven korkuluğu, ferforje, kaynak işleri, pvc kapı pencere ve tonluk bidon yapıyoruz."
+      "text": "Demir kapı imalatı, pencere korkuluğu, bahçe kapısı, garaj ve depo kapısı, balkon korkuluğu, merdiven korkuluğu, ferforje, kaynak işleri ve pvc kapı pencere yapıyoruz."
      }
     },
     {
@@ -1449,7 +1354,7 @@
    "@id": "https://guvenkardeslermetal.com.tr/bursa-yildirim-demirci.html#sayfa",
    "@type": "WebPage",
    "url": "https://guvenkardeslermetal.com.tr/bursa-yildirim-demirci.html",
-   "dateModified": "2026-11-08",
+   "dateModified": "2026-11-10",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://guvenkardeslermetal.com.tr/#isletme"
@@ -1464,7 +1369,7 @@
    "about": {
     "@id": "https://guvenkardeslermetal.com.tr/#isletme"
    },
-   "dateModified": "2026-11-09"
+   "dateModified": "2026-11-10"
   },
   {
    "@id": "https://guvenkardeslermetal.com.tr/hakkimizda.html#aboutpage",
@@ -1474,7 +1379,7 @@
    "about": {
     "@id": "https://guvenkardeslermetal.com.tr/#isletme"
    },
-   "dateModified": "2026-11-08"
+   "dateModified": "2026-11-10"
   },
   {
    "@id": "https://guvenkardeslermetal.com.tr/hakkimizda.html#breadcrumblist",
@@ -1537,7 +1442,7 @@
      "name": "Hangi işleri yapıyorsunuz?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Demir kapı, ferforje, pencere ve balkon korkuluğu imalatı yapıyor, her türlü kaynak işini üstleniyoruz. Sıfır ve 2. el PVC kapı pencere satıyor, tonluk bidon alıp satıyoruz."
+      "text": "Demir kapı, ferforje, pencere ve balkon korkuluğu imalatı yapıyor, her türlü kaynak işini üstleniyoruz. Sıfır ve 2. el PVC kapı pencere de satıyoruz."
      }
     },
     {
@@ -1571,14 +1476,6 @@
       "@type": "Answer",
       "text": "Evet, dışarıya hizmetimiz var. Kapı ve korkuluk montajını, yerinde yapılması gereken kaynak işlerini adresinizde yapıyoruz. Adresinizi ve işin fotoğrafını gönderin, günü birlikte belirleyelim."
      }
-    },
-    {
-     "@type": "Question",
-     "name": "Tonluk bidon alıp satıyor musunuz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Evet. Tonluk (kafesli) bidonlar bizde bulunur; elinizdeki bidonları da değerinde alıyoruz."
-     }
     }
    ]
   },
@@ -1586,7 +1483,7 @@
    "@id": "https://guvenkardeslermetal.com.tr/#sayfa",
    "@type": "WebPage",
    "url": "https://guvenkardeslermetal.com.tr/",
-   "dateModified": "2026-11-09",
+   "dateModified": "2026-11-10",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://guvenkardeslermetal.com.tr/#isletme"
@@ -1629,7 +1526,7 @@
    "about": {
     "@id": "https://guvenkardeslermetal.com.tr/#isletme"
    },
-   "dateModified": "2026-11-09"
+   "dateModified": "2026-11-10"
   }
  ]
 }

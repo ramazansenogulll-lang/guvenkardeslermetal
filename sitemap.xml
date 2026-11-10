@@ -2,24 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://guvenkardeslermetal.com.tr/</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <priority>1.0</priority>
-    <image:image><image:loc>https://guvenkardeslermetal.com.tr/assets/img/og-6e2fa965.jpg</image:loc></image:image>
+    <image:image><image:loc>https://guvenkardeslermetal.com.tr/assets/img/og-25450403.jpg</image:loc></image:image>
     <image:image><image:loc>https://guvenkardeslermetal.com.tr/assets/img/bursa-guven-kardesler-demir-hero-1200.avif</image:loc></image:image>
   </url>
-  <url><loc>https://guvenkardeslermetal.com.tr/bursa-demir-kapi-imalati.html</loc><lastmod>2026-11-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://guvenkardeslermetal.com.tr/bursa-demir-kapi-imalati.html</loc><lastmod>2026-11-08</lastmod><priority>0.8</priority><image:image><image:loc>https://guvenkardeslermetal.com.tr/assets/img/bursa-demir-kapi-imalati-800.avif</image:loc></image:image></url>
   <url><loc>https://guvenkardeslermetal.com.tr/bursa-pencere-korkulugu-imalati.html</loc><lastmod>2026-11-08</lastmod><priority>0.8</priority><image:image><image:loc>https://guvenkardeslermetal.com.tr/assets/img/bursa-pencere-korkulugu-imalati-800.avif</image:loc></image:image></url>
   <url><loc>https://guvenkardeslermetal.com.tr/bursa-ferforje.html</loc><lastmod>2026-11-08</lastmod><priority>0.8</priority><image:image><image:loc>https://guvenkardeslermetal.com.tr/assets/img/bursa-ferforje-800.avif</image:loc></image:image></url>
   <url><loc>https://guvenkardeslermetal.com.tr/bursa-kaynak-isleri.html</loc><lastmod>2026-11-08</lastmod><priority>0.8</priority></url>
-  <url><loc>https://guvenkardeslermetal.com.tr/bursa-pvc-kapi-pencere.html</loc><lastmod>2026-11-08</lastmod><priority>0.8</priority><image:image><image:loc>https://guvenkardeslermetal.com.tr/assets/img/bursa-pvc-kapi-pencere-800.avif</image:loc></image:image></url>
-  <url><loc>https://guvenkardeslermetal.com.tr/bursa-tonluk-bidon-alim-satim.html</loc><lastmod>2026-11-08</lastmod><priority>0.8</priority></url>  <url><loc>https://guvenkardeslermetal.com.tr/bursa-yildirim-demirci.html</loc><lastmod>2026-11-08</lastmod><priority>0.7</priority></url>
+  <url><loc>https://guvenkardeslermetal.com.tr/bursa-pvc-kapi-pencere.html</loc><lastmod>2026-11-08</lastmod><priority>0.8</priority><image:image><image:loc>https://guvenkardeslermetal.com.tr/assets/img/bursa-pvc-kapi-pencere-800.avif</image:loc></image:image></url>  <url><loc>https://guvenkardeslermetal.com.tr/bursa-yildirim-demirci.html</loc><lastmod>2026-11-10</lastmod><priority>0.7</priority></url>
   <url><loc>https://guvenkardeslermetal.com.tr/bursa-osmangazi-demirci.html</loc><lastmod>2026-11-08</lastmod><priority>0.7</priority></url>
-  <url><loc>https://guvenkardeslermetal.com.tr/bursa-gursu-demirci.html</loc><lastmod>2026-11-08</lastmod><priority>0.7</priority></url>
-  <url><loc>https://guvenkardeslermetal.com.tr/bursa-kestel-demirci.html</loc><lastmod>2026-11-08</lastmod><priority>0.7</priority></url>
+  <url><loc>https://guvenkardeslermetal.com.tr/bursa-gursu-demirci.html</loc><lastmod>2026-11-10</lastmod><priority>0.7</priority></url>
+  <url><loc>https://guvenkardeslermetal.com.tr/bursa-kestel-demirci.html</loc><lastmod>2026-11-10</lastmod><priority>0.7</priority></url>
   <url><loc>https://guvenkardeslermetal.com.tr/bursa-nilufer-demirci.html</loc><lastmod>2026-11-08</lastmod><priority>0.7</priority></url>
-  <url><loc>https://guvenkardeslermetal.com.tr/hakkimizda.html</loc><lastmod>2026-11-08</lastmod><priority>0.5</priority></url>
+  <url><loc>https://guvenkardeslermetal.com.tr/hakkimizda.html</loc><lastmod>2026-11-10</lastmod><priority>0.5</priority></url>
   <url><loc>https://guvenkardeslermetal.com.tr/kullanim-kosullari.html</loc><lastmod>2026-11-08</lastmod><priority>0.5</priority></url>
-  <url><loc>https://guvenkardeslermetal.com.tr/iletisim.html</loc><lastmod>2026-11-09</lastmod><priority>0.6</priority></url>
-  <url><loc>https://guvenkardeslermetal.com.tr/kvkk.html</loc><lastmod>2026-11-09</lastmod><priority>0.3</priority></url>
-  <url><loc>https://guvenkardeslermetal.com.tr/gizlilik-politikasi.html</loc><lastmod>2026-11-09</lastmod><priority>0.3</priority></url>
+  <url><loc>https://guvenkardeslermetal.com.tr/iletisim.html</loc><lastmod>2026-11-10</lastmod><priority>0.6</priority></url>
+  <url><loc>https://guvenkardeslermetal.com.tr/kvkk.html</loc><lastmod>2026-11-10</lastmod><priority>0.3</priority></url>
+  <url><loc>https://guvenkardeslermetal.com.tr/gizlilik-politikasi.html</loc><lastmod>2026-11-10</lastmod><priority>0.3</priority></url>
 </urlset>
